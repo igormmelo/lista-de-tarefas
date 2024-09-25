@@ -21,3 +21,8 @@
 <p>NEXT.JS</p>
 <p>TAILWIND CSS</p>
 
+<h1>Demonstrating the project</h1>
+
+
+https://github.com/user-attachments/assets/0fa67654-ef9e-4aa8-8e55-9b353f7f8bab
+
