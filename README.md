@@ -12,8 +12,7 @@
 <p>HTML5</p>
 <p>CSS3</p>
 <p>JAVASCRIPT</p>
-CSS3
-JAVASCRIPT
+
 
 <h2>📚 Library</h2>
 <p>REACTJS</p>
